@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/healthease_front/static/css/main.500878bd.css",
+    "main.js": "/healthease_front/static/js/main.2a3a2692.js",
+    "static/js/787.08c24718.chunk.js": "/healthease_front/static/js/787.08c24718.chunk.js",
+    "index.html": "/healthease_front/index.html",
+    "main.500878bd.css.map": "/healthease_front/static/css/main.500878bd.css.map",
+    "main.2a3a2692.js.map": "/healthease_front/static/js/main.2a3a2692.js.map",
+    "787.08c24718.chunk.js.map": "/healthease_front/static/js/787.08c24718.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.500878bd.css",
+    "static/js/main.2a3a2692.js"
+  ]
+}
