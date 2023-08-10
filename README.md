@@ -1,5 +1,11 @@
 # Project Healthease
-Server live at Firebase https://healthease-68114.web.app/
+Server live at Firebase https://healthease-68114.web.app/ (Railway.app + Firebase)
+2nd Server link https://newapp-7fab6.firebaseapp.com/ (AWS+Firebase) SSL not active
+# Solution
+![image](https://github.com/Ashish99393/healthease_front/assets/59952371/1a3d3445-2abc-4789-b2a6-45e95d629763)
+### Site settings
+![image](https://github.com/Ashish99393/healthease_front/assets/59952371/4e6289a7-4997-4ce1-9904-e09ecab8833c)
+### Allow insecure content for this site
 
 # Snaps
 ![image](https://github.com/Ashish99393/healthease_front/assets/59952371/4497a091-5390-4fc3-a7d4-f30094f04aaa)
